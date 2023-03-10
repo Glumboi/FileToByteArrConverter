@@ -1,0 +1,8 @@
+F:\visual studio\repos2\ByteReader\bin\Debug\ByteReader.exe.config
+F:\visual studio\repos2\ByteReader\bin\Debug\ByteReader.exe
+F:\visual studio\repos2\ByteReader\bin\Debug\ByteReader.pdb
+F:\visual studio\repos2\ByteReader\obj\Debug\ByteReader.csproj.AssemblyReference.cache
+F:\visual studio\repos2\ByteReader\obj\Debug\ByteReader.csproj.SuggestedBindingRedirects.cache
+F:\visual studio\repos2\ByteReader\obj\Debug\ByteReader.csproj.CoreCompileInputs.cache
+F:\visual studio\repos2\ByteReader\obj\Debug\ByteReader.exe
+F:\visual studio\repos2\ByteReader\obj\Debug\ByteReader.pdb
